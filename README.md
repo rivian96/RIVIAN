@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=50&color=00F712&center=true&width=500&height=80&lines=Rivian" style="display: inline ">
+  </a>
+</h1>
 <h3 align="center">A cyber security Enthusiast</h3>
 
 <img align="right" alt="rivian" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif">
